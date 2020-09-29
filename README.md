@@ -5,3 +5,4 @@ Lista de palavras/frases para banir de qualquer chat em que a toxidade não seja
 Fontes:
 
 1. https://aprenderpalavras.com/lista-de-palavroes-xingamentos-e-girias/
+2. [Cartilha do politicamente correto](http://www.dhnet.org.br/dados/cartilhas/a_pdf_dht/cartilha_politicamente_correto.pdf)
