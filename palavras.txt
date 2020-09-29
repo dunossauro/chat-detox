@@ -1,4 +1,3 @@
-africano
 aidético
 aleijado
 analfabeto
@@ -77,9 +76,12 @@ cocaina
 coco
 comunista
 corna
+cornagem
+cornisse
 corno
 cornuda
 cornudo
+cornão
 corrupta
 corrupto
 coxo
@@ -242,16 +244,17 @@ pica
 picao
 pilantra
 pinel
+pinto
+pintudo
+pintão
 piranha
 piroca
 piroco
 piru
 pivete
-político
 porra
 prega
 preso
-prost-bulo
 prostibulo
 prostituta
 prostituto
@@ -316,7 +319,10 @@ veada
 veadao
 veado
 viada
+viadagem
 viadao
+viado
+viadão
 víado
 xana
 xaninha
@@ -329,4 +335,3 @@ xiíta
 xochota
 xota
 xoxota
-índio
