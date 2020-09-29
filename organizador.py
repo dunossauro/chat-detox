@@ -1,5 +1,5 @@
 with open('palavras.txt') as file:
-    lines = file.readlines()
+    lines = sorted(set(line.rstrip().lower() for line in file))
 
 with open('palavras.txt', 'w') as file:
-    file.writelines(sorted(set(lines)))
+    file.writelines(line + '\n' for line in lines)
